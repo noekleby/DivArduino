@@ -1,0 +1,1 @@
+For informasjon om hvordan biblioteker installeres, se:http://arduino.cc/en/Guide/Libraries\n
